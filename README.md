@@ -15,11 +15,11 @@ The PHP reference implementation is now produced by the PHP Group.<br></br>
 
 **What is a CRUD?** <br></br>
 
-CRUD is an acronym for the four basic operations used to create, read, update, and delete data in computer programming: 
-1. Create: Create new records 
-2. Read: Access existing records, either by searching or viewing them 
-3. Update: Modify existing records 
-4. Delete: Remove records from the database 
+CRUD is an acronym for the four basic operations used to create, read, update, and delete data in computer programming: <br>
+1. Create: Create new records <br>
+2. Read: Access existing records, either by searching or viewing them <br>
+3. Update: Modify existing records <br>
+4. Delete: Remove records from the database<br></br>
 
 
 
