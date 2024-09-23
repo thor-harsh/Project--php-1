@@ -22,9 +22,6 @@ CRUD is an acronym for the four basic operations used to create, read, update, a
 4. Delete: Remove records from the database<br></br>
 
 
-
-
-
 **Important Note: Before Jumping to the code please understand php and how it works by going to php manual here(https://www.php.net/manual/en/index.php)**
 
 </table>
